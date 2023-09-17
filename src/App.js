@@ -11,8 +11,8 @@ function App() {
 	return (
 		<div className="App">
 			<Header />
-			<Heros />
 			<Sales />
+			<Heros />
 			<Lates />
 			<Card3D />
 			<Info />
