@@ -48,7 +48,11 @@ export const Sales = () => {
 						<div key={d.id} className="slide">
 							<p className="slide_p">{d.content}</p>
 							<p>
-								<a href="#" className="slide_info">
+								<a
+									href="#"
+									className="slide_info"
+									style={{ color: "#000", textDecoration: "underline" }}
+								>
 									For more Information
 								</a>
 							</p>
