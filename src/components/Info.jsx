@@ -5,6 +5,12 @@ import kid from "../assets/kids.webp";
 export const Info = () => {
 	return (
 		<div className="info">
+			<div href="https://www.fontspace.com/category/graffiti">
+				<img
+					src="https://see.fontimg.com/api/renderfont4/vm0JA/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/S29yZWE/drip-october.png"
+					alt="Graffiti fonts"
+				/>
+			</div>
 			<h3> The Essentials</h3>
 			<div className="info_category">
 				<div className="info_category_relative">

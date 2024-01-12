@@ -63,7 +63,6 @@ body {
 	cursor: pointer;
 }
 .header_left_search {
-	/* flex: 2; */
 	background-color: #f1efef;
 	height: 80%;
 	border-radius: 50%;

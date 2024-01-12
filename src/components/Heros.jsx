@@ -11,6 +11,12 @@ export const Heros = () => {
 				<img src={hero1} className="hero" />
 				<img src={hero2} className="hero" />
 			</div>
+			<div href="https://www.fontspace.com/category/graffiti">
+				<img
+					src="https://see.fontimg.com/api/renderfont4/vm0JA/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/S29yZWE/drip-october.png"
+					alt="Graffiti fonts"
+				/>
+			</div>
 		</div>
 	);
 };

@@ -92,6 +92,12 @@ export const Footer = () => {
 					<p>Nike Privacy Policy</p>
 				</div>
 			</div>
+			<a href="https://www.fontspace.com/category/graffiti">
+				<img
+					src="https://see.fontimg.com/api/renderfont4/vm0JA/eyJyIjoiZnMiLCJoIjoxMzAsInciOjIwMDAsImZzIjo2NSwiZmdjIjoiIzAwMDAwMCIsImJnYyI6IiNGRkZGRkYiLCJ0IjoxfQ/S29yZWE/drip-october.png"
+					alt="Graffiti fonts"
+				/>
+			</a>
 		</footer>
 	);
 };

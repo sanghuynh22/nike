@@ -13,9 +13,9 @@ import img5 from "../assets/5.webp";
 import img6 from "../assets/6.webp";
 import img7 from "../assets/7.webp";
 import img8 from "../assets/8.webp";
+gsap.registerPlugin(ScrollTrigger);
 
 export const Card3D = () => {
-	gsap.registerPlugin(ScrollTrigger);
 	const applyAnimation = (grid, animationType) => {
 		// Child elements of grid
 		const gridWrap = grid.querySelector(".grid-wrap");
